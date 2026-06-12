@@ -1,6 +1,6 @@
 {
   "$GMSound":"v2",
-  "%Name":"pickup",
+  "%Name":"snd_pickup",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -12,7 +12,7 @@
   "conversionMode":0,
   "duration":0.14002268,
   "exportDir":"",
-  "name":"pickup",
+  "name":"snd_pickup",
   "parent":{
     "name":"Sons",
     "path":"folders/Sons.yy",
@@ -21,6 +21,6 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"pickup.wav",
+  "soundFile":"snd_pickup.wav",
   "volume":1.0,
 }
