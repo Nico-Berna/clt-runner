@@ -14,6 +14,6 @@ if (x == 25) {
 
 
 // Dando a velocidade vertical dele
-vspeed = 1;
+vspeed = global.sprite_speed;
 
-
+alarm[0] = 120

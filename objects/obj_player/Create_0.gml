@@ -1,1 +1,0 @@
-pontos_jogador = 0;

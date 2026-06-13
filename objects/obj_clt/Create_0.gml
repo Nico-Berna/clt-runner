@@ -11,4 +11,6 @@ if (x < room_width/2) {
 
 
 //Dando a velocidade vertical dele
-vspeed = 1;
+
+vspeed = global.sprite_speed;
+alarm[0] = 120;
